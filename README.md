@@ -1,5 +1,5 @@
 # MIST4610-Project1
 
-# Group Name
+** Group Name
 
-# Team Memebers & Repos
+** Team Memebers & Repos
