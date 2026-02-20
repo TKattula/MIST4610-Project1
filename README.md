@@ -2,8 +2,8 @@
 ## Team Memebers & Repos
 Tanvi Kattula @Tkattula\
 Maddie Wrigley\
-Jessica Downen\
-Darren Zhang\
+Jessica Downen @JessicaDownen\
+Darren Zhang
 
 ## Problem Description
 
