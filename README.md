@@ -2,7 +2,7 @@
 ## Team Memebers & Repos
 Tanvi Kattula @Tkattula\
 Maddie Wrigley\
-Jessica Downen @JessicaDownen\
+Jessica Downen @JessicaDownen \
 Darren Zhang
 
 ## Problem Description
