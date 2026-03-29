@@ -14,6 +14,10 @@ The 'Store' includes the physical location of the store, and connects many table
 
 ## Data Model
 
+Explanation:
+
+
+
 ## Data Dictionary
 
 ## Queries
