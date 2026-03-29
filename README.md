@@ -3,7 +3,7 @@
 Tanvi Kattula @Tkattula\
 Maddie Wrigley\
 Jessica Downen @JessicaDownen \
-Darren Zhang
+Darren Zhang @darrenzhang11
 
 ## Problem Description
 
