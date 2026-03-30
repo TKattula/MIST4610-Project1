@@ -32,31 +32,59 @@ And lastly are the orderline and returnline tables which are very important beca
 
 ## Data Dictionary
 
+### Store
+
 <img width="708" height="401" alt="Screenshot 2026-03-29 at 10 32 21 PM" src="https://github.com/user-attachments/assets/6f6fa999-8645-46aa-8216-dc92733d8d4f" />
+
+### StoreInventory
 
 <img width="695" height="341" alt="Screenshot 2026-03-29 at 10 32 29 PM" src="https://github.com/user-attachments/assets/7ca1f5c4-4b3a-45c0-a9c5-b012be91d396" />
 
+### ReturnLine
+
 <img width="692" height="244" alt="Screenshot 2026-03-29 at 10 36 23 PM" src="https://github.com/user-attachments/assets/47f339b3-7f5b-499f-9dec-139cbab81cac" />
+
+### Employee
 
 <img width="689" height="586" alt="Screenshot 2026-03-29 at 10 29 58 PM" src="https://github.com/user-attachments/assets/1d652deb-d527-4d13-a99c-f8f5df850067" />
 
+### Loyalty Account
+
 <img width="678" height="523" alt="Screenshot 2026-03-29 at 10 30 25 PM" src="https://github.com/user-attachments/assets/27da7dac-ff21-408b-b09c-31a656e44731" />
+
+### OrderLine
 
 <img width="667" height="252" alt="Screenshot 2026-03-29 at 10 30 34 PM" src="https://github.com/user-attachments/assets/d2f0e78d-f7a6-45a3-ae4f-0859f65cce5f" />
 
+### Payment
+
 <img width="677" height="453" alt="Screenshot 2026-03-29 at 10 30 55 PM" src="https://github.com/user-attachments/assets/2bba8fab-ccd2-41c7-abf3-6241e3303e92" />
+
+### Postal Code
 
 <img width="655" height="271" alt="Screenshot 2026-03-29 at 10 31 02 PM" src="https://github.com/user-attachments/assets/a8840882-cfdb-4be6-ac1f-cbf5f2f95302" />
 
+### Product
+
 <img width="696" height="535" alt="Screenshot 2026-03-29 at 10 31 21 PM" src="https://github.com/user-attachments/assets/fb7b2b32-37f9-4b35-a90f-be3b8110a084" />
+
+### Return
 
 <img width="674" height="408" alt="Screenshot 2026-03-29 at 10 31 35 PM" src="https://github.com/user-attachments/assets/80ff3f60-8dac-4197-bbd8-6b56e3150733" />
 
+### Department
+
 <img width="646" height="493" alt="Screenshot 2026-03-29 at 10 29 50 PM" src="https://github.com/user-attachments/assets/db2963d5-e0cc-471b-a145-46e765bb8c58" />
+
+### CustomerAddress
 
 <img width="686" height="486" alt="Screenshot 2026-03-29 at 10 29 43 PM" src="https://github.com/user-attachments/assets/fa2aae07-b5e2-462b-80f7-3e666f1637dc" />
 
+### Customer
+
 <img width="609" height="523" alt="Screenshot 2026-03-29 at 10 29 35 PM" src="https://github.com/user-attachments/assets/6db07792-3114-4e22-b87e-1e3b817cffd3" />
+
+### Address
 
 <img width="670" height="332" alt="Screenshot 2026-03-29 at 10 28 11 PM" src="https://github.com/user-attachments/assets/3d4b8371-0631-4ff9-b116-fad20d604681" />
 
