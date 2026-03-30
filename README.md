@@ -1,9 +1,9 @@
 # MIST4610-Project1
 ## Team Memebers & Repos
-Tanvi Kattula @Tkattula\
-Maddie Wrigley @Maddiekw1 \
-Jessica Downen @JessicaDownen \
-Darren Zhang @darrenzhang11
+Tanvi Kattula [@Tkattula](https://github.com/TKattula) \
+Maddie Wrigley [@Maddiekw1](https://github.com/Maddiekw1) \
+Jessica Downen [@JessicaDownen](https://github.com/JessicaDownen) \
+Darren Zhang [@darrenzhang11](https://github.com/darrenzhang11)
 
 ## Problem Description
 
