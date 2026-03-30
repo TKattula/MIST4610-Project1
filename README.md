@@ -11,6 +11,7 @@ Darren Zhang @darrenzhang11
 
 The 'Store' includes the physical location of the store, and connects many tables including StoreInventory, Employees, SalesOrder, Address and Retruns. These tables work in conjunction with eachother to create a functional database that allows the user to make valid and insightful queries. Our database allows the user to manage inventory, customer orders, returns and locations amoung other things which would solve a variey of issues a client using our database would like to solve. At its core, our dataabase is meant to solve issues that arise in retail settings such as: inventory management, customer order management, as well as maintaining accurate records of important data. 
 
+<img width="629" height="600" alt="Screenshot 2026-03-29 at 10 45 36 PM" src="https://github.com/user-attachments/assets/c80a75f0-5d73-4569-900b-a80d7f486e2b" />
 
 ## Data Model
 
