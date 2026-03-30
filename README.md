@@ -1,7 +1,7 @@
 # MIST4610-Project1
 ## Team Memebers & Repos
 Tanvi Kattula @Tkattula\
-Maddie Wrigley\
+Maddie Wrigley @Maddiekw1 \
 Jessica Downen @JessicaDownen \
 Darren Zhang @darrenzhang11
 
