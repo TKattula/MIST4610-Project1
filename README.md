@@ -13,7 +13,7 @@ The 'Store' includes the physical location of the store, and connects many table
 
 <img width="629" height="600" alt="Screenshot 2026-03-29 at 10 45 36 PM" src="https://github.com/user-attachments/assets/c80a75f0-5d73-4569-900b-a80d7f486e2b" />
 
-## Data Model 1
+## Data Model 
 
 Explanation:
 
