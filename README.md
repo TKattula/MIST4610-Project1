@@ -1,4 +1,7 @@
-# MIST4610-Project1
+# Team 8 MIST4610-Project1
+
+## Team Name:
+21479 Group 8
 ## Team Memebers & Repos
 Tanvi Kattula [@Tkattula](https://github.com/TKattula) \
 Maddie Wrigley [@Maddiekw1](https://github.com/Maddiekw1) \
