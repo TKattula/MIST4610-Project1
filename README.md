@@ -97,5 +97,5 @@ And lastly are the OrderLine and ReturnLine tables which are very important beca
 <img width="670" height="332" alt="Screenshot 2026-03-29 at 10 28 11 PM" src="https://github.com/user-attachments/assets/3d4b8371-0631-4ff9-b116-fad20d604681" />
 
 ## Queries
-
+*Disclaimer*: Due to the random generation of data, some data innacuracies may occur, however, the queries display functions that would be useful especially with data that is manually entered in the event this was a real business
 ## Database Information
