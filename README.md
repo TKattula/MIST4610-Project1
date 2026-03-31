@@ -20,7 +20,7 @@ The 'Store' includes the physical location of the store, and connects many table
 
 Explanation:
 
-Our data model represents the inner working of a department store. It allows the users to manage multiple areas like products, stores, orders, inventory, etc. We have connected each table to help create a natural flow of information to the user and allowing the database to have a greater sense of functionality and value to the user. 
+Our data model represents the inner working of a department store brand. It allows the users to manage multiple areas like products, stores, orders, inventory, etc. We have connected each table to help create a natural flow of information to the user and allowing the database to have a greater sense of functionality and value to the user. 
 
 The Customer table allows us to record customer information that would be useful to identify the customer. Each customer will have their own specific ID that allows the user to identify specific customer information. The information that goes into the Customer table could be collected when the customer creates an account. Customers can have loyalty accounts to the specific store as well. The Loyalty Account table records information on their own loyalty number (like a library number or a Costco card) and how many points the customer has collected. Each customer can only have one loyalty account, and each loyalty account can only be linked to one customer.
 
