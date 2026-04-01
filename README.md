@@ -99,6 +99,10 @@ And lastly are the OrderLine and ReturnLine tables which are very important beca
 ## Queries
 *Disclaimer*: Due to the random generation of data, some data innacuracies may occur, however, the queries display functions that would be useful especially with data that is manually entered in the event this was a real business
 
+Table of query components:
+<img width="723" height="452" alt="Screenshot 2026-03-31 at 8 54 49 PM" src="https://github.com/user-attachments/assets/144408b4-5233-42ed-b377-c2bcaa8de540" />
+
+
 Query 1: Which cities do the customers with the most orders come from?
 <img width="687" height="539" alt="Screenshot 2026-03-31 at 8 33 06 PM" src="https://github.com/user-attachments/assets/27c90d7d-26af-47b9-846f-9e3a79f8fd06" />
 Query 1 displays a list of all the cities in descending order based on the amount of orders customers from that city have placed. This is helpful to management as it shows the distribution of customers and where to focus on sending inventory to.
