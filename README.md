@@ -129,14 +129,18 @@ This is useful for tracking over time to see if customers are continuing to repu
 
 Query 7: Which products have low inventory in the Washington or Reno stores?
 <img width="1245" height="420" alt="Screenshot 2026-03-31 at 8 46 23 PM" src="https://github.com/user-attachments/assets/c13ba56f-e9c9-41ec-b4a4-eaf02a35c3c4" />
+For this specific query we picked to look at the Washington and Reno stores as Washington is the city most customers order from and Reno has the most total sales, showing they are extremely popular stores. By seeing which products have low inventory, management will know what to replenish to minimize items being out of stock/
 
 Query 8: Which cities have the most employees paid a wage above the total average employee wage?
 <img width="705" height="351" alt="Screenshot 2026-03-31 at 8 47 54 PM" src="https://github.com/user-attachments/assets/6adae91a-9464-4b8a-9e33-fe371a49098a" />
+This is important to understand as it will allow management to understand where expenses are occuring and see if wages match up with where revenue is occuring. From this we can see that Reno has high expenses which falls in line with the fact that they have the highest total sales too.
 
 Query 9: How many customers have created a loyalty account but never placed an order?
 <img width="769" height="191" alt="Screenshot 2026-03-31 at 8 49 37 PM" src="https://github.com/user-attachments/assets/abb69168-907b-4485-8571-9722c687624a" />
+This is not the most pertinent information, but good to see what potential customers may be out there. Through the loyalty account, other information can be seen like birth date, so sending birthday rewards could be a way to capture new customers.
 
 Query 10: Which products have a price abve the average price of products in the same department?
 <img width="741" height="445" alt="Screenshot 2026-03-31 at 8 50 11 PM" src="https://github.com/user-attachments/assets/dfff856b-f4c5-4ee8-9d46-02159e4d75db" />
+This information is useful in understanding if certain items are overpriced. Comparing this information with sale information of the products on this list could be used to determine if items shoul dbe lowered in price to attract more sales.
 
 ## Database Information
