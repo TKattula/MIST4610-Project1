@@ -144,3 +144,5 @@ Query 10: Which products have a price abve the average price of products in the 
 This information is useful in understanding if certain items are overpriced. Comparing this information with sale information of the products on this list could be used to determine if items shoul dbe lowered in price to attract more sales.
 
 ## Database Information
+
+Name of the database: al_21479_G8
