@@ -98,4 +98,37 @@ And lastly are the OrderLine and ReturnLine tables which are very important beca
 
 ## Queries
 *Disclaimer*: Due to the random generation of data, some data innacuracies may occur, however, the queries display functions that would be useful especially with data that is manually entered in the event this was a real business
+
+Query 1: Which cities do the customers with the most orders come from?
+<img width="687" height="539" alt="Screenshot 2026-03-31 at 8 33 06 PM" src="https://github.com/user-attachments/assets/27c90d7d-26af-47b9-846f-9e3a79f8fd06" />
+Query 1 displays a list of all the cities in descending order based on the amount of orders customers from that city have placed. This is helpful to management as it shows the distribution of customers and where to focus on sending inventory to.
+
+Query 2: Which customers have emails ending in .edu?
+<img width="545" height="484" alt="Screenshot 2026-03-31 at 8 35 37 PM" src="https://github.com/user-attachments/assets/b12d4868-7049-4fd2-9ff0-69c364c395dd" />
+
+
+Query 3: What are the top 5 most sold products?
+<img width="1087" height="276" alt="Screenshot 2026-03-31 at 8 36 52 PM" src="https://github.com/user-attachments/assets/1f05e598-1551-428b-8ed4-e309bcd8c1de" />
+
+Query 4: How many customers are in each tier of the loyalty program?
+<img width="700" height="219" alt="Screenshot 2026-03-31 at 8 37 54 PM" src="https://github.com/user-attachments/assets/78084101-77b8-44cb-a592-e97c79ad41af" />
+
+Query 5: What are the top 5 stores based on total sales?
+<img width="950" height="380" alt="Screenshot 2026-03-31 at 8 40 24 PM" src="https://github.com/user-attachments/assets/e9d97814-2541-45ec-ae46-01df1c90aa13" />
+
+Query 6: Which customers have placed 5 or more orders?
+<img width="745" height="397" alt="Screenshot 2026-03-31 at 8 45 31 PM" src="https://github.com/user-attachments/assets/30cc047b-2c1a-4468-8662-ca8939a7ba40" />
+
+Query 7: Which products have low inventory in the Washington or Reno stores?
+<img width="1245" height="420" alt="Screenshot 2026-03-31 at 8 46 23 PM" src="https://github.com/user-attachments/assets/c13ba56f-e9c9-41ec-b4a4-eaf02a35c3c4" />
+
+Query 8: Which cities have the most employees paid a wage above the total average employee wage?
+<img width="705" height="351" alt="Screenshot 2026-03-31 at 8 47 54 PM" src="https://github.com/user-attachments/assets/6adae91a-9464-4b8a-9e33-fe371a49098a" />
+
+Query 9: How many customers have created a loyalty account but never placed an order?
+<img width="769" height="191" alt="Screenshot 2026-03-31 at 8 49 37 PM" src="https://github.com/user-attachments/assets/abb69168-907b-4485-8571-9722c687624a" />
+
+Query 10: Which products have a price abve the average price of products in the same department?
+<img width="741" height="445" alt="Screenshot 2026-03-31 at 8 50 11 PM" src="https://github.com/user-attachments/assets/dfff856b-f4c5-4ee8-9d46-02159e4d75db" />
+
 ## Database Information
