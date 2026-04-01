@@ -109,19 +109,23 @@ Query 1 displays a list of all the cities in descending order based on the amoun
 
 Query 2: Which customers have emails ending in .edu?
 <img width="545" height="484" alt="Screenshot 2026-03-31 at 8 35 37 PM" src="https://github.com/user-attachments/assets/b12d4868-7049-4fd2-9ff0-69c364c395dd" />
-
+Understanding what customers have .edu emails shows h=who are students. This can be useful in evaluating the customer demographic as well as who could potentially receive student discounts if it were implemented.
 
 Query 3: What are the top 5 most sold products?
 <img width="1087" height="276" alt="Screenshot 2026-03-31 at 8 36 52 PM" src="https://github.com/user-attachments/assets/1f05e598-1551-428b-8ed4-e309bcd8c1de" />
+Understanding which products are most sold helps the company understand what they should focus production materials and time on. This could also be further explored by tracking by dates to see how product flow changes over the year.
 
 Query 4: How many customers are in each tier of the loyalty program?
 <img width="700" height="219" alt="Screenshot 2026-03-31 at 8 37 54 PM" src="https://github.com/user-attachments/assets/78084101-77b8-44cb-a592-e97c79ad41af" />
+This is useful to understand how customers are disperesed in the loyalty program to fiure out how rewards should be given so that it is not harmful to the firm.
 
 Query 5: What are the top 5 stores based on total sales?
 <img width="950" height="380" alt="Screenshot 2026-03-31 at 8 40 24 PM" src="https://github.com/user-attachments/assets/e9d97814-2541-45ec-ae46-01df1c90aa13" />
+This is also important to track for understanding product flow. By figuring out where sales are coming from, the firm can put more resources to firms that have strong revenue. This can also be done in a descending order to figure out which stores are struggling.
 
 Query 6: Which customers have placed 5 or more orders?
 <img width="745" height="397" alt="Screenshot 2026-03-31 at 8 45 31 PM" src="https://github.com/user-attachments/assets/30cc047b-2c1a-4468-8662-ca8939a7ba40" />
+This is useful for tracking over time to see if customers are continuing to repurchase from the brand. This could be used in the future to send coupons or rewards for being strong customers.
 
 Query 7: Which products have low inventory in the Washington or Reno stores?
 <img width="1245" height="420" alt="Screenshot 2026-03-31 at 8 46 23 PM" src="https://github.com/user-attachments/assets/c13ba56f-e9c9-41ec-b4a4-eaf02a35c3c4" />
