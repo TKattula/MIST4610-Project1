@@ -139,7 +139,7 @@ Query 9: How many customers have created a loyalty account but never placed an o
 <img width="769" height="191" alt="Screenshot 2026-03-31 at 8 49 37 PM" src="https://github.com/user-attachments/assets/abb69168-907b-4485-8571-9722c687624a" />
 This is not the most pertinent information, but good to see what potential customers may be out there. Through the loyalty account, other information can be seen like birth date, so sending birthday rewards could be a way to capture new customers.
 
-Query 10: Which products have a price abve the average price of products in the same department?
+Query 10: Which products have a price above the average price of products in the same department?
 <img width="741" height="445" alt="Screenshot 2026-03-31 at 8 50 11 PM" src="https://github.com/user-attachments/assets/dfff856b-f4c5-4ee8-9d46-02159e4d75db" />
 This information is useful in understanding if certain items are overpriced. Comparing this information with sale information of the products on this list could be used to determine if items shoul dbe lowered in price to attract more sales.
 
